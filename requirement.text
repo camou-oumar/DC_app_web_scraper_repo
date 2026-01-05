@@ -4,7 +4,7 @@ requests
 numpy
 matplotlib
 os
-beautifulsoup4
+Beautifulsoup4
 numpy
 bs4
 requests
